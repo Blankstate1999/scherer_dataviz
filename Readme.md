@@ -1,1 +1,1 @@
-This is a repo for my R markdown notes and code from Cedric Scherer's 'Effective Data Visualisation'. Available at: https://www.youtube.com/watch?v=swzFdMc6WPk&t=1373s.
+This is a repo for my notes and code from Cedric Scherer's 'Effective Data Visualisation'. Available at: https://www.youtube.com/watch?v=swzFdMc6WPk&t=1373s.
